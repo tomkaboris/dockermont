@@ -12,7 +12,7 @@ setup(
             'docker-monitor=dockermont.monitor:DockerMonitor',
         ],
     },
-    author='Boris',
+    author='Boris Tomka',
     description='A simple Docker container monitoring package',
     url='https://github.com/tomkaboris/dockermont',
     classifiers=[
