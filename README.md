@@ -11,3 +11,8 @@ A package that helps monitor Docker containers and their resources usage in real
 - Monitoring containerized microservices and ensuring they are running smoothly.
 - Troubleshooting containers with high resources usage of crash patterns.
 - Automated container restarts or healt-checks.
+
+## Install
+    ```bash
+    pip install git+https://github.com/tomkaboris/dockermont.git
+    ```
