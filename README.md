@@ -1,5 +1,5 @@
 # dockermont
-A package that helps monitor Docker containers adn their resources usage in real-time.
+A package that helps monitor Docker containers and their resources usage in real-time.
 
 ## Features
 - Track CPU, memory, network, and disk usage per container.
