@@ -13,6 +13,7 @@ A package that helps monitor Docker containers and their resources usage in real
 - Automated container restarts or healt-checks.
 
 ## Install
-    ```bash
-    pip install git+https://github.com/tomkaboris/dockermont.git
-    ```
+
+```bash
+pip install git+https://github.com/tomkaboris/dockermont.git
+```
